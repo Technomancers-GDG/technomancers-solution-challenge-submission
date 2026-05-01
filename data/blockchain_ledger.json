@@ -1,0 +1,18 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "timestamp": "2026-04-23T20:11:19.813984",
+      "decision_type": "genesis",
+      "entity_id": 0,
+      "action": "chain_initialized",
+      "explanation": "Genesis block for supply chain audit trail.",
+      "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "metadata": {
+        "version": "1.0",
+        "system": "Resilient Essential Goods Coordinator"
+      },
+      "nonce": 0
+    }
+  ]
+}

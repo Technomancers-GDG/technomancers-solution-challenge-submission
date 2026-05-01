@@ -1,0 +1,19 @@
+eve__pycache__/
+*.pyc
+*.pyo
+*.db
+.pytest_cache/
+pytest-cache-files-*/
+node_modules/
+frontend/dist/
+driver-app-main/dist/
+sc/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db

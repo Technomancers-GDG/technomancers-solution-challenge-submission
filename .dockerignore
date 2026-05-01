@@ -1,0 +1,13 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+frontend/
+driver-app-main/
+node_modules/
+.git/
+.vscode/
+supply_chain.db
+backend.log
+backend2.log
+error.txt
