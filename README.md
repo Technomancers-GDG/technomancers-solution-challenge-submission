@@ -1,6 +1,6 @@
-#  SOLV: Resilient Essential Goods Coordinator
+#  LogiSight: Resilient Essential Goods Coordinator
 
-Welcome to SOLV! This is a full-stack open-source platform designed to orchestrate and simulate essential supply chain operations across India. By making the supply chain "disruption-aware," this platform helps optimize logistics, reroute vehicles automatically during crises, and measure real-world impact.
+Welcome to LogiSight! This is a full-stack open-source platform designed to orchestrate and simulate essential supply chain operations across India. By making the supply chain "disruption-aware," this platform helps optimize logistics, reroute vehicles automatically during crises, and measure real-world impact.
 
 ##  What's Inside?
 
